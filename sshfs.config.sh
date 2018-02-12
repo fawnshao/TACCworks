@@ -17,3 +17,4 @@ sshfs shaojf@stampede2.tacc.utexas.edu:/work/04935/shaojf/stampede2/ ~/Data/Stam
 
 # or add the following in ~/.profile
 # alias mountstampede2='sshfs shaojf@stampede2.tacc.utexas.edu:/work/04935/shaojf/stampede2/ ~/Data/Stampede2 -ovolname=Stamepde2'
+# in the future, you can call 'mountstampede2' to mount the file system
