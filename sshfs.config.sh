@@ -1,6 +1,7 @@
 # for mac
 # use apple store to install newest Xcode
 
+# https://docs.brew.sh/
 # install Homebrew:
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
